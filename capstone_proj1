@@ -1,0 +1,5 @@
+# This markdown will mainly used for capstone projects. Initial projects where python codes will be written to convey some basic functionality.
+
+import pandas as pd
+import Numpy as np
+Print ("Hello Capstone Project")
