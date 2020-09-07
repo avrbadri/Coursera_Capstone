@@ -1,3 +1,6 @@
+** This sample project is to write a hello world program in capstone project**
+** I cant use a jupyter notebook due to a constraint and hence using a notepad and using commands to make markdown bold**
+
 import pandas as pd
 import Numpy as np
 Print ("Hello Capstone Project")
